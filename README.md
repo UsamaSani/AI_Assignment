@@ -5,4 +5,4 @@
 <p><b>Program :</b> BS-CyberSecurity</p>
 <p><b>Semester :</b> 3(A)</p>
 <p><b>Subject :</b> Artificial Intelligence</p>
-<p><b>Course Instructor :</b> Miss Aqsa Umar/p>
+<p><b>Course Instructor :</b> Miss Aqsa Umar</p>
